@@ -3,7 +3,7 @@ const dotenv = require("dotenv");
 
 dotenv.config();
 
-const { title, body, twists, climax, metadata } = require("./story1.json");
+const { title, body, twists } = require("./story27.json");
 
 //Object for creating the root story
 const twist0 = { title: title, body: body };
@@ -16,14 +16,14 @@ const story_full = {};
 const subtwists_full = {};
 
 for (const twist of twists) {
-  story_meta[twist.id] = twist.subtwists.length;
+  story_meta[twist.id] = twist.subtwists?.length;
 
   story_full[twist.id] = {};
 
   story_full[twist.id]["title"] = twist.title;
   story_full[twist.id]["body"] = twist.body;
 
-  if (twist.subtwists.length > 0) {
+  if (twist.subtwists?.length > 0) {
     for (const subtwist in twist.subtwists) {
       var temp = parseInt(subtwist) + 1;
       story_meta[twist.id + temp] = 0;
@@ -59,7 +59,7 @@ async function main() {
 
   const rootHashId = twist0res.data.hashId;
 
-//   // We are ready to add twists. We do POST request with twist data and specify hashId of the parent.
+  //   // We are ready to add twists. We do POST request with twist data and specify hashId of the parent.
 
   //For iterating through twists and sub-twists
   for (const key of Object.keys(story_full)) {
@@ -76,7 +76,7 @@ async function main() {
     const subres = await axios.post(
       "https://story3.com/api/v2/twists",
       {
-        ...story_full[key], 
+        ...story_full[key],
         hashParentId: finalHashId,
       },
       {
@@ -85,8 +85,8 @@ async function main() {
         },
       }
     );
-      response_array.push(subres);
-      hashId_array[keyn.toString()] = subres?.data?.hashId;
+    response_array.push(subres);
+    hashId_array[keyn.toString()] = subres?.data?.hashId;
   }
 
   // publish each twist at the 1st level
@@ -99,7 +99,7 @@ async function main() {
           "x-auth-token": token,
         },
       }
-      );
+    );
   }
 }
 

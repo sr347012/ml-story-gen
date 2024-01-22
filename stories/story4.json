@@ -1,0 +1,57 @@
+{
+  "title": "The Enchanted Rose",
+  "body": "Once upon a time, in a small picturesque village nestled in the mountains of Jammu & Kashmir, lived a young girl named Maya. She had a heart full of dreams and a spirit that longed for adventure. Maya's life took a dramatic turn when she stumbled upon a hidden treasure map that promised untold riches. Little did she know that this discovery would lead her on a journey of love, friendship, and self-discovery.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "The Mysterious Stranger",
+      "body": "As Maya embarked on her quest to find the treasure, she encountered a mysterious stranger named Aryan. With his charming smile and mischievous eyes, Aryan offered to be Maya's guide. As they delved deeper into the treacherous mountains, their friendship blossomed into something more. But little did Maya know that Aryan had a secret that could shatter her heart.",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Betrayal",
+          "body": "Aryan's true identity was revealed when he betrayed Maya, leaving her heartbroken and alone. Devastated by his deceit, Maya must find the strength to carry on her journey alone. But will she be able to forgive Aryan or will this betrayal consume her?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Unexpected Ally",
+          "body": "Just when Maya thought all hope was lost, she stumbled upon an unexpected ally named Rohan. With his kind heart and unwavering loyalty, Rohan became Maya's rock. Together, they faced countless obstacles and discovered the true meaning of friendship. But will their bond be enough to overcome the challenges ahead?"
+        }
+      ]
+    },
+    {
+      "id": "twist2",
+      "title": "The Enchanted Forest",
+      "body": "In her search for the treasure, Maya stumbled upon an enchanted forest. The lush green trees whispered ancient secrets, and magical creatures roamed freely. As Maya explored this mystical realm, she encountered a wise old sage who revealed the true purpose of her journey. Will Maya find the treasure she seeks or will she uncover something even more precious?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Power of Love",
+          "body": "Within the enchanted forest, Maya discovered the power of love. She met a young man named Arjun, who had been cursed to live as a beast. Through their shared experiences and unconditional love, Maya and Arjun broke the curse and found their happily ever after. But will their love withstand the test of time?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Ultimate Sacrifice",
+          "body": "As Maya delved deeper into the enchanted forest, she learned of a prophecy that foretold a great sacrifice. In order to save her village from impending doom, Maya must make the ultimate sacrifice. Will she be able to make this selfless act or will fear consume her?"
+        }
+      ]
+    },
+    {
+      "id": "twist3",
+      "title": "The Hidden Truth",
+      "body": "As Maya followed the clues on the treasure map, she uncovered a hidden truth that shook her to the core. The treasure she sought was not material wealth, but a deeper understanding of herself and her purpose in life. With this newfound knowledge, Maya embarked on a journey of self-discovery and spiritual awakening. Will she find the answers she seeks or will the truth elude her?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Inner Battle",
+          "body": "As Maya delved into her own psyche, she faced an inner battle between her desires and her higher self. Will she succumb to the temptations of worldly pleasures or will she choose the path of enlightenment?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Final Revelation",
+          "body": "In her quest for self-discovery, Maya encountered a spiritual guru who revealed the final piece of the puzzle. The guru's wise words and profound teachings led Maya to a life-changing realization. Will this revelation bring Maya the peace and fulfillment she has been searching for?"
+        }
+      ]
+    }
+  ]
+}

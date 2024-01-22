@@ -1,0 +1,21 @@
+{
+  "title": "The Sacred Necklace",
+  "body": "In the bustling city of Mumbai, amidst the chaos and noise, there was a small temple tucked away in a quiet corner. The temple was known to grant the wishes of those who visited with a pure heart. One day, a young girl named Riya, filled with curiosity and hope, stepped into the temple.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "The Mysterious Stranger",
+      "body": "As Riya made her wish, a mysterious stranger appeared before her. He introduced himself as Arjun and revealed that he was the guardian of the temple. Arjun informed Riya that she was chosen to embark on a sacred quest to recover a stolen necklace that possessed immense spiritual power. He handed her a map and told her that the necklace was hidden deep within a forbidden forest."
+    },
+    {
+      "id": "twist2",
+      "title": "The Enchanting Forest",
+      "body": "Riya followed the map and entered the forbidden forest. The air was filled with an enchanting aroma, and the trees whispered ancient secrets. As she ventured deeper into the forest, Riya encountered mystical creatures and spirits. One friendly spirit named Nisha, with her mischievous nature, offered Riya guidance and protection. Nisha led Riya to a hidden cave where the necklace was believed to be hidden."
+    },
+    {
+      "id": "twist3",
+      "title": "The Final Test",
+      "body": "Inside the cave, Riya faced a series of challenges and tests. Each test required her to display courage, compassion, and wisdom. With the guidance of Nisha, Riya successfully overcame each obstacle and reached the final chamber. There, she found the sacred necklace, gleaming with divine light. However, she also discovered that she could only take the necklace if she sacrificed something precious to her."
+    }
+  ]
+}

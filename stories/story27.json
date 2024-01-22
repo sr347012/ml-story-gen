@@ -1,0 +1,57 @@
+{
+  "title": "The Power inside us",
+  "body": "Once upon a time, in a small town nestled amidst the majestic mountains of Jammu & Kashmir, lived Maya, a young girl with a heart full of dreams and a mind brimming with curiosity. Her days were filled with laughter and mischief, as she roamed the streets of her picturesque hometown. Little did Maya know that her life was about to take a magical turn that would change her forever.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "The Enchanted Forest",
+      "body": "One day, while exploring the dense woods near her house, Maya stumbled upon a hidden pathway that led to an enchanting forest. The trees were adorned with sparkling lights, and the air was filled with a sweet fragrance. As Maya ventured deeper into the forest, she discovered a mystical creature named Sparkle, who had the power to grant wishes. Excited yet cautious, Maya made her first wish - to meet her favorite comedian and spend a day full of laughter with him.",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Comedian's Challenge",
+          "body": "Sparkle granted Maya's wish, and she found herself transported to a bustling city where her favorite comedian, Mr. Funnybones, was rehearsing for a grand show. However, there was a catch - Maya had to make Mr. Funnybones laugh with her own jokes to earn a ticket to his show. With determination and a touch of comedy, Maya embarked on a hilarious journey to become the funniest person in the city."
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Unexpected Friendship",
+          "body": "As Maya struggled to come up with the perfect joke, she met a street performer named Charlie, who had a heart full of laughter but struggled to make ends meet. Together, they formed an unlikely friendship and decided to help each other achieve their dreams. Maya taught Charlie the art of storytelling, while Charlie shared his secret to spreading laughter. As they practiced and perfected their skills, Maya's confidence grew, and so did their bond."
+        }
+      ]
+    },
+    {
+      "id": "twist2",
+      "title": "The Spirit's Call",
+      "body": "While Maya was enjoying her time in the enchanted forest, she stumbled upon an ancient book that contained the secrets of spiritual wisdom. Intrigued by its mystical aura, Maya decided to delve deeper into the world of spirituality. She embarked on a journey to meet the great Guruji, who resided in a remote village in Tamil Nadu. Little did she know that this journey would test her faith and resilience like never before.",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Trials of Faith",
+          "body": "As Maya reached the village, she was faced with a series of challenges designed to test her faith. She had to overcome her deepest fears, confront her past mistakes, and learn to trust her intuition. With each trial, Maya discovered a new facet of her spiritual self, and she realized that true enlightenment comes from within."
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Divine Intervention",
+          "body": "Just when Maya was on the verge of giving up, she received a divine message from an unexpected source. The message guided her towards a hidden treasure that held the key to unlocking her true potential. With renewed hope and a heart full of gratitude, Maya embarked on a final quest to find the treasure and fulfill her destiny as a spiritual seeker."
+        }
+      ]
+    },
+    {
+      "id": "twist3",
+      "title": "The Battle of Realities",
+      "body": "As Maya's magical journey neared its end, she found herself torn between the enchanting world of the forest and the spiritual realm of the village. Both realities held a special place in her heart, and she couldn't bear to leave either behind. Little did Maya know that her decision would not only impact her own destiny but also the fate of the entire magical realm.",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Prophecy Unveiled",
+          "body": "Maya discovered an ancient prophecy that foretold a great battle between light and darkness. She realized that her journey was not just about self-discovery but about embracing her true purpose - to bring harmony and balance to both worlds. With the help of her newfound friends and the wisdom gained from her adventures, Maya prepared for the ultimate battle that would shape the destiny of all."
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Power Within",
+          "body": "In the midst of chaos and uncertainty, Maya tapped into the power within her - a power that was fueled by love, compassion, and the belief in the impossible. With every twist and turn, Maya's journey taught her that true magic lies in the bonds we form, the laughter we share, and the courage to follow our dreams. As she stepped into the battlefield, her heart filled with a determination that could move mountains."
+        }
+      ]
+    }
+  ]
+}

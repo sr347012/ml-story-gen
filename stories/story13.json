@@ -1,0 +1,57 @@
+{
+  "title": "Love story of a ghost",
+  "body": "In the bustling city of Mumbai, where dreams come true and love is often lost, there lived two souls destined to meet. Aanya, a talented dancer with dreams of making it big, and Rohan, a charming musician with a troubled past, crossed paths one fateful night at a popular club. Little did they know that their lives were about to change forever.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "The Unveiling Mystery",
+      "body": "As Aanya and Rohan started spending more time together, they couldn't ignore the strange occurrences happening around them. Objects would move on their own, and whispers could be heard in the dead of the night. They decided to investigate, leading them to discover an old abandoned mansion with a dark secret. Will they unravel the mystery or be consumed by it?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Ghostly Encounter",
+          "body": "While exploring the mansion, Aanya and Rohan come face to face with a ghostly apparition of a young girl. She pleads for their help to find her lost love who was killed in a tragic accident. Will they be able to reunite the lovers and bring peace to the restless spirit?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Ancient Curse",
+          "body": "As Aanya and Rohan dig deeper into the history of the mansion, they discover an ancient curse that has haunted the place for centuries. They must find a way to break the curse before it consumes them and their love. Will their bond be strong enough to overcome the darkness that lurks within?"
+        }
+      ]
+    },
+    {
+      "id": "twist2",
+      "title": "The Rivalry",
+      "body": "Just when Aanya and Rohan thought their love story was reaching its happy ending, they find themselves caught in the midst of a fierce rivalry between two dance groups. Both groups are determined to win the prestigious citywide dance competition, and Aanya is torn between her loyalty to her friends and her love for Rohan. Will their love survive the test of rivalry and jealousy?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Ultimate Sacrifice",
+          "body": "In a desperate attempt to save their relationship, Aanya decides to sacrifice her own dreams and join the rival dance group to help them win the competition. Will her sacrifice be enough to prove her love for Rohan?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Unexpected Collaboration",
+          "body": "As tensions rise between the two dance groups, an unexpected collaboration is proposed - a grand fusion performance that combines the unique styles of both groups. Aanya and Rohan must convince their friends and rivals to put aside their differences and work together to create a performance that will leave the audience in awe. Will their love be the bridge that brings unity and triumph?"
+        }
+      ]
+    },
+    {
+      "id": "twist3",
+      "title": "The Divine Intervention",
+      "body": "When all hope seemed lost, Aanya and Rohan find solace in their spiritual beliefs. They embark on a journey to a sacred temple nestled in the serene hills of Tamil Nadu. Legend has it that the temple has the power to fulfill the deepest desires of the ones who truly believe. Will their faith be enough to overcome the obstacles in their path and find their happily ever after?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Ancient Prophecy",
+          "body": "As Aanya and Rohan delve into the mystical world of Indian mythology, they discover an ancient prophecy that foretells their love story. They must decipher the cryptic clues hidden within the temple walls and fulfill their destiny. Will they be able to rewrite their fate and embrace their love against all odds?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Divine Intervention",
+          "body": "In a moment of despair, Aanya and Rohan receive a divine intervention from the gods themselves. They are bestowed with extraordinary powers that enable them to overcome the challenges in their path. With their newfound abilities, they must fight against the forces of darkness and protect their love. Will their love transcend mortal boundaries?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "The Journey of Souls",
+  "body": "In the serene mountains of Jammu & Kashmir, lies a small village named Shanti Nagar. This quaint place is known for its peaceful atmosphere and the strong belief in spirituality. The villagers lead a simple life, deeply connected to nature and their inner selves. It is here that our story begins, intertwining the lives of two young souls, Aditi and Arjun.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "The Mysterious Stranger",
+      "body": "As Aditi and Arjun embark on their journey of self-discovery, they stumble upon a mysterious stranger who possesses extraordinary powers. Intrigued, they decide to follow him, only to be transported to a parallel universe filled with magical creatures and unimaginable beauty. Will they find their way back home or will this adventure change their lives forever?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Enchanted Forest",
+          "body": "Aditi and Arjun find themselves in an enchanted forest, filled with talking animals and ancient spirits. They must navigate through the challenges of the forest, facing their fears and learning valuable life lessons along the way. Will they discover the true purpose of their journey and unlock the secrets hidden within?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Forgotten Past",
+          "body": "In this parallel universe, Aditi and Arjun uncover a forgotten past that connects them to the land and its mystical inhabitants. As they delve deeper into their ancestry, they must confront their own inner demons and make decisions that will shape their future. Will they embrace their destiny or choose a different path?"
+        }
+      ]
+    },
+    {
+      "id": "twist2",
+      "title": "The Love Triangle",
+      "body": "As Aditi and Arjun journey through this parallel universe, they meet a charismatic and enigmatic traveler named Aryan. Sparks fly between Aditi and Aryan, creating a love triangle that tests the boundaries of loyalty and friendship. Will their bond withstand the trials of love or will it crumble under the weight of their emotions?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Test of Love",
+          "body": "Aditi and Arjun's love is put to the test as they face jealousy, betrayal, and heartbreak. They must confront their own insecurities and learn to trust each other unconditionally. Will their love conquer all or will it be torn apart by the forces of fate?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Power of Forgiveness",
+          "body": "In the midst of chaos and heartache, Aditi and Arjun discover the power of forgiveness. They realize that holding on to grudges and past mistakes only hinders their journey towards happiness and inner peace. Can they let go of their pain and learn to forgive themselves and others?"
+        }
+      ]
+    },
+    {
+      "id": "twist3",
+      "title": "The Ultimate Sacrifice",
+      "body": "As Aditi and Arjun come closer to finding their way back home, they learn of a prophecy that foretells a great sacrifice. To save their friends and the parallel universe from impending doom, they must make a choice that will change their lives forever. Will they have the courage to make the ultimate sacrifice or will they find another way to save both worlds?",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Farewell",
+          "body": "Aditi and Arjun must bid farewell to the friends they have made in the parallel universe, knowing that they may never see each other again. This emotional farewell tests their resolve and strengthens their bond. Will they find solace in knowing that they have made a difference or will the pain of parting be too much to bear?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Return Home",
+          "body": "After a long and arduous journey, Aditi and Arjun finally find their way back home. But they are not the same people who left Shanti Nagar. They have grown, both individually and as a couple. Will they find happiness in the familiar surroundings of their village or will they yearn for the adventures and lessons they learned in the parallel universe?"
+        }
+      ]
+    }
+  ]
+}

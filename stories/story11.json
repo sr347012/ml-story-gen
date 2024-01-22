@@ -1,0 +1,57 @@
+{
+    "title": "The Forgotten Love of Riya",
+    "body": "In the bustling city of Mumbai, where dreams come to life, a young girl named Riya finds solace in her love for writing. With her heart filled with dreams and aspirations, she embarks on a journey to create a story that will touch the hearts of millions. Little does she know that her own love story will soon become an intricate part of her tale.",
+    "twists": [
+        {
+            "id": "twist1",
+            "title": "The Mysterious Stranger",
+            "body": "While strolling through the crowded streets of Mumbai, Riya encounters a handsome stranger. Their eyes meet, and in that moment, time stands still. Who is this mysterious stranger? What secrets does he hold? Riya is determined to find out, even if it means risking her own heart.",
+            "subtwists": [
+                {
+                    "id": "subtwist1",
+                    "title": "The Forbidden Love",
+                    "body": "As Riya gets to know the mysterious stranger, she discovers that he belongs to a different world. Their love is forbidden, yet their hearts cannot deny the pull they feel towards each other. Will they be able to overcome the barriers standing in their way? Or will their love story remain an unfinished chapter?"
+                },
+                {
+                    "id": "subtwist2",
+                    "title": "The Ultimate Sacrifice",
+                    "body": "In a world torn apart by societal norms and expectations, Riya and the mysterious stranger must make a choice. Will they choose love and risk everything they've ever known? Or will they sacrifice their own happiness for the sake of others? The decision they make will shape their destinies forever."
+                }
+            ]
+        },
+        {
+            "id": "twist2",
+            "title": "The Comedy of Errors",
+            "body": "Amidst all the drama and romance, Riya's life takes a hilarious turn when her quirky best friend, Aman, decides to play cupid. With his outrageous plans and comical mishaps, Aman brings laughter and chaos into Riya's life. Will Aman's antics lead Riya to her true love? Or will they only create more confusion and misunderstandings?",
+            "subtwists": [
+                {
+                    "id": "subtwist1",
+                    "title": "The Love Triangle",
+                    "body": "As Aman tries to play matchmaker, Riya finds herself caught in a love triangle. Two eligible bachelors vying for her attention, each with their own unique charm. Will Riya be able to choose between the two? Or will she realize that love is not always about making a choice, but following your heart?"
+                },
+                {
+                    "id": "subtwist2",
+                    "title": "The Comedy of Errors",
+                    "body": "Amidst all the chaos and confusion, Riya discovers that sometimes, love can be found in the most unexpected places. As Aman's plans go haywire, Riya learns to embrace the unpredictability of life and find joy in the laughter that surrounds her. In the end, she realizes that love and comedy go hand in hand."
+                }
+            ]
+        },
+        {
+            "id": "twist3",
+            "title": "The Journey Within",
+            "body": "Feeling lost and unsure of her path, Riya embarks on a soul-searching journey to the scenic hills of Himachal Pradesh. Surrounded by the beauty of nature, she discovers a hidden strength within herself. Along the way, she meets a wise old sage who imparts valuable life lessons and guides her towards finding her true purpose.",
+            "subtwists": [
+                {
+                    "id": "subtwist1",
+                    "title": "The Power of Self-Reflection",
+                    "body": "As Riya delves deep into her own thoughts and emotions, she learns the importance of self-reflection. Through introspection and self-discovery, she gains clarity on her dreams and aspirations. With newfound confidence, Riya returns to the city determined to pursue her passion for writing, no matter the obstacles."
+                },
+                {
+                    "id": "subtwist2",
+                    "title": "The Gift of Forgiveness",
+                    "body": "During her journey, Riya also learns the power of forgiveness. She confronts her past mistakes and finds the strength to forgive herself and others. This newfound forgiveness allows her to let go of the baggage holding her back and embrace a future filled with love, happiness, and fulfillment."
+                }
+            ]
+        }
+    ]
+}

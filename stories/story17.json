@@ -1,0 +1,21 @@
+{
+  "title": "The haunted Souls",
+  "body": "In the bustling city of Mumbai, where dreams are made and broken, a group of teenagers embark on a journey that will forever change their lives. They are brought together by fate, their paths intertwining in the most unexpected ways. Little do they know, this journey will not only test their friendship but also their courage, as they encounter supernatural forces and ancient secrets. As they delve deeper into the mysteries of the city, they discover that they are not alone. The spirits of the lost souls are waiting to be set free, and only they have the power to save them.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "The Haunted Mansion",
+      "body": "While exploring an abandoned mansion, the group discovers a hidden room filled with eerie artifacts. As they touch an ancient talisman, they are transported to a parallel dimension where ghosts roam freely. They must find a way back to reality before they become trapped forever."
+    },
+    {
+      "id": "twist2",
+      "title": "The Secret Society",
+      "body": "One of the teenagers stumbles upon a secret society that has been manipulating events in the city for centuries. They are offered a choice: join the society and gain unlimited power or fight against them to protect the innocent. This decision tears the group apart, leading to a thrilling showdown between friends turned enemies."
+    },
+    {
+      "id": "twist3",
+      "title": "The Lost Prophecy",
+      "body": "A wise old sage reveals a prophecy that foretells the destruction of the city if the group doesn't complete a series of dangerous tasks. Each task tests their strength, courage, and loyalty. Along the way, they must confront their darkest fears and make sacrifices for the greater good. The fate of the city rests in their hands."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "title": "The love Journey of Rishi Aisha",
+    "body": "In the vibrant city of Mumbai, where dreams come true and love blooms, lived two teenagers, Rishi and Aisha. They were inseparable since childhood, sharing their hopes and secrets, until one fateful day...",
+    "twists": [
+        {
+            "id": "twist1",
+            "title": "The Mysterious Stranger",
+            "body": "While Rishi was walking alone by the beach, he bumped into a mysterious stranger. The stranger had an uncanny resemblance to his long-lost father, who disappeared years ago. Could this be a coincidence or was there something more to this encounter?",
+            "subtwists": [
+                {
+                    "id": "subtwist1",
+                    "title": "The Secret Diary",
+                    "body": "As Rishi delves deeper into the mystery surrounding the stranger, he discovers a secret diary hidden in his father's old belongings. The diary holds clues to his father's disappearance and leads Rishi on a quest to uncover the truth."
+                },
+                {
+                    "id": "subtwist2",
+                    "title": "The Supernatural Revelation",
+                    "body": "While researching his father's disappearance, Rishi stumbles upon an ancient Indian myth about a mystical amulet. Legend has it that the amulet has the power to reveal hidden truths. Could this be the key to finding his father and unlocking the secrets of the mysterious stranger?"
+                }
+            ]
+        },
+        {
+            "id": "twist2",
+            "title": "The Forbidden Love",
+            "body": "As Rishi's search for his father intensifies, he finds himself falling deeply in love with Aisha. However, their love is forbidden as Aisha's family despises Rishi's family. Will they be able to overcome the obstacles and fight for their love, or will fate tear them apart?",
+            "subtwists": [
+                {
+                    "id": "subtwist1",
+                    "title": "The Family Feud",
+                    "body": "Rishi and Aisha's families have been bitter enemies for generations, stemming from a long-forgotten feud. The young lovers must navigate through the deep-rooted animosity and convince their families to put aside their differences for the sake of their love."
+                },
+                {
+                    "id": "subtwist2",
+                    "title": "The Sacrifice",
+                    "body": "In a desperate attempt to prove their love, Rishi and Aisha decide to make the ultimate sacrifice. They vow to leave their families behind and elope to a faraway place where they can build a life together. But will their plan succeed, or will they be torn apart by unforeseen circumstances?"
+                }
+            ]
+        },
+        {
+            "id": "twist3",
+            "title": "The Divine Intervention",
+            "body": "Just as Rishi and Aisha's love faces its greatest test, a divine intervention takes place. A mysterious saintly figure appears before them, offering guidance and blessings. Will this divine intervention be enough to save their love and reunite Rishi with his long-lost father?",
+            "subtwists": [
+                {
+                    "id": "subtwist1",
+                    "title": "The Sacred Ritual",
+                    "body": "The saintly figure reveals a sacred ritual that Rishi and Aisha must undertake in order to overcome the obstacles in their path. This ritual involves a journey to a remote village in the mystical mountains of Tamil Nadu, where they must seek the blessings of an ancient deity."
+                },
+                {
+                    "id": "subtwist2",
+                    "title": "The Mythical Battle",
+                    "body": "As Rishi and Aisha embark on their journey to the remote village, they encounter mythical creatures and face dangerous challenges. They must prove their love and courage in a mythical battle against the forces that threaten to tear them apart."
+                }
+            ]
+        }
+    ]
+}

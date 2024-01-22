@@ -1,0 +1,21 @@
+{
+  "title": "The Mysterious Ravi",
+  "body": "Once upon a time in a quaint little town of Balaganj, there lived a mischievous young boy named Ravi. He had a knack for getting into trouble, but his heart was pure and his spirit was indomitable. One day, while exploring the ancient ruins on the outskirts of the town, Ravi stumbled upon a tattered old map that held the key to a hidden treasure. Little did he know that this discovery would take him on a thrilling adventure filled with twists and turns.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "The Mysterious Guardian",
+      "body": "As Ravi followed the map, he found himself in a dense forest. Suddenly, he heard a rustling sound behind him. Turning around, he came face to face with a mystical creature. The creature introduced itself as Kali, the ancient guardian of the treasure. Kali offered Ravi a choice - to join him in protecting the treasure or to continue his quest for the riches. What will Ravi choose? Will he be able to trust Kali?"
+    },
+    {
+      "id": "twist2",
+      "title": "The Curse of the Treasure",
+      "body": "After overcoming many obstacles, Ravi finally reached the secret chamber where the treasure was rumored to be hidden. But as he laid his hands on the precious jewels, a curse was unleashed. The curse trapped Ravi and the treasure within the chamber, leaving them both forever bound. Can Ravi find a way to break the curse and escape? Or will he be trapped for eternity?"
+    },
+    {
+      "id": "twist3",
+      "title": "The Betrayal",
+      "body": "Just when Ravi thought he had triumphed over all obstacles, he was betrayed by his closest friend. Raghav, who had accompanied Ravi on the entire quest, revealed his true intentions - to steal the treasure for himself. Ravi was devastated by this betrayal, but he didn't give up. With the help of a wise old sage, he devised a plan to outsmart Raghav and reclaim what was rightfully his. Will Ravi succeed in his plan? Or will Raghav get away with the treasure?"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+   "title":"The Lost Soul",
+   "body":"In the bustling city of Mumbai, amidst the towering skyscrapers and chaotic streets, lived a young girl named Riya. With dreams in her eyes and a passion for writing, she tirelessly worked towards becoming a successful scriptwriter. Little did she know that her journey would take her on an unexpected path of self-discovery and spiritual awakening.",
+   "twists":[
+      {
+         "id":"twist1",
+         "title":"The Mysterious Stranger",
+         "body":"Riya's life took an intriguing turn when she met a mysterious stranger named Aryan. He seemed to possess a deep spiritual knowledge that fascinated Riya. As they spent more time together, Aryan shared stories of ancient traditions and philosophies, opening Riya's eyes to a world beyond the materialistic city life.",
+         "subtwists":[
+            {
+               "id":"subtwist1",
+               "title":"A Journey to the Himalayas",
+               "body":"Intrigued by Aryan's teachings, Riya decided to embark on a journey to the serene Himalayas. Surrounded by majestic mountains and tranquil monasteries, she discovered the true meaning of spirituality and connected with her inner self. The Himalayas became her sanctuary, and Riya's writing took a profound turn as she infused her newfound wisdom into her scripts."
+            },
+            {
+               "id":"subtwist2",
+               "title":"The Test of Faith",
+               "body":"During her spiritual journey, Riya encountered a series of challenges that tested her faith. She faced situations that pushed her to her limits, forcing her to confront her deepest fears and insecurities. Through resilience and determination, Riya emerged stronger, her faith unwavering. These experiences became the backbone of her most emotionally charged and impactful scripts."
+            }
+         ]
+      },
+      {
+         "id":"twist2",
+         "title":"The Unexpected Romance",
+         "body":"Amidst her spiritual quest, Riya crossed paths with Kabir, a fellow traveler with a heart full of warmth and a mischievous sense of humor. Their undeniable chemistry and shared love for adventure set the stage for a heartwarming romance. Together, they explored hidden corners of the Himalayas, discovering new dimensions of love and laughter that Riya never thought possible.",
+         "subtwists":[
+            {
+               "id":"subtwist1",
+               "title":"The Comedy of Errors",
+               "body":"As Riya and Kabir navigated their budding relationship, they found themselves in hilarious situations that tested their compatibility. From getting lost in the dense forests to encountering mischievous monkeys, their journey was filled with laughter and joy. Their shared experiences inspired Riya to infuse humor and lightheartedness into her scripts, captivating the audience with their relatable charm."
+            },
+            {
+               "id":"subtwist2",
+               "title":"Love Against All Odds",
+               "body":"Despite the challenges and uncertainties, Riya and Kabir's love stood strong. They faced opposition from their families and society, but their unwavering belief in their love gave them the strength to fight for their happiness. Riya's scripts started reflecting the power of love and the determination to overcome obstacles, leaving the audience in awe of their resilience."
+            }
+         ]
+      },
+      {
+         "id":"twist3",
+         "title":"The Revelation",
+         "body":"As Riya delved deeper into her spiritual journey, she discovered a hidden truth about her own past. She learned that her ancestors hailed from a remote village in Tamil Nadu, a place she had never heard of before. Intrigued by this revelation, Riya set out on a quest to uncover her roots, leading her to a village immersed in ancient rituals and traditions.",
+         "subtwists":[
+            {
+               "id":"subtwist1",
+               "title":"Embracing Cultural Heritage",
+               "body":"In the village, Riya witnessed the rich cultural heritage of Tamil Nadu. She immersed herself in the vibrant festivals, traditional music, and dance forms, gaining a newfound appreciation for her roots. Inspired by the stories and legends she encountered, Riya incorporated elements of Tamil Nadu's culture into her scripts, adding depth and authenticity to her storytelling."
+            },
+            {
+               "id":"subtwist2",
+               "title":"A Spiritual Reunion",
+               "body":"During her journey, Riya met a wise old woman who revealed the spiritual significance of her ancestral village. She guided Riya towards a deeper understanding of her own spirituality and connected her with her ancestors. Riya's scripts took a spiritual turn, filled with profound messages of self-discovery and the exploration of one's roots."
+            }
+         ]
+      }
+   ]
+}
