@@ -1,0 +1,64 @@
+{
+  "title": "The Secret Garden",
+  "body": "In a small village nestled in the mountains of Jammu & Kashmir, lived a young girl named Maya. She was an orphan, living with her strict aunt and uncle. Maya always felt a deep emptiness in her heart, longing for something more in life.",
+  "twists": [
+    {
+      "id": "twist1",
+      "title": "Unexpected Friendship",
+      "body": "One day, while exploring the forest near her village, Maya stumbled upon a hidden garden. The garden was filled with vibrant flowers and lush greenery, but it was overgrown and abandoned. As Maya began to clean up the garden, she discovered a wounded bird. With her kind heart, Maya nursed the bird back to health, forming an unexpected friendship.",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Mysterious Key",
+          "body": "While tending to the garden, Maya found a mysterious key buried beneath the soil. Intrigued, she wondered what it could unlock. As she ventured deeper into the garden, Maya came across a hidden door. Could the key open this door and reveal the secrets within?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "Young Love",
+          "body": "Maya's best friend, Rohan, was the only person who knew about her secret garden. As they spent more time together, they began to develop romantic feelings for each other. However, their love story faced challenges as Maya's aunt and uncle disapproved of their relationship. Will their love conquer all obstacles?"
+        }
+      ]
+    },
+    {
+      "id": "twist2",
+      "title": "The Healing Power of Nature",
+      "body": "As Maya continued to nurture the garden, she discovered the healing power it held. The flowers had magical properties that could cure ailments and bring joy to people's lives. Word spread about Maya's garden, and soon, people from far and wide traveled to the village seeking its healing powers.",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Jealous Neighbor",
+          "body": "Maya's aunt and uncle's neighbor, Mrs. Verma, grew jealous of Maya's newfound fame and the attention she received for her garden. Mrs. Verma plotted to destroy the garden and steal its magical flowers. Will Maya be able to protect her beloved garden from this wicked neighbor?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Miracle Cure",
+          "body": "One day, a young boy named Aryan arrived in the village, suffering from a rare and incurable disease. Desperate for a cure, his parents brought him to Maya's garden as their last hope. Can the magical flowers heal Aryan and restore hope to his family?"
+        }
+      ]
+    },
+    {
+      "id": "twist3",
+      "title": "Embracing the Unknown",
+      "body": "As Maya delved deeper into the secrets of the garden, she uncovered a hidden realm inhabited by mythical creatures. These creatures, known as the Guardians of Nature, revealed to Maya her true destiny – to protect the balance of nature and restore harmony in the world.",
+      "subtwists": [
+        {
+          "id": "subtwist1",
+          "title": "The Final Battle",
+          "body": "Maya learned that an evil force threatened to destroy the garden and plunge the world into darkness. With the help of her friends and the Guardians of Nature, she embarked on a dangerous journey to confront the source of this darkness. Will Maya's courage and determination be enough to save the garden and the world?"
+        },
+        {
+          "id": "subtwist2",
+          "title": "The Sacrifice",
+          "body": "In the midst of the final battle, Maya faced a difficult choice – to sacrifice her own happiness and stay true to her destiny, or to let go of her duties and embrace a normal life with Rohan. Can Maya find the strength to make the ultimate sacrifice for the greater good?"
+        }
+      ]
+    }
+  ],
+  "climax": "In the climax of the story, Maya confronts the evil force threatening to destroy the garden. With the power of love, friendship, and her unwavering faith, Maya overcomes the darkness and restores balance to the world. The garden blooms once again, spreading hope and joy to all who encounter it.",
+  "metadata": {
+    "emotional_quotient": 0.5,
+    "drama_quotient": 0.7,
+    "location_quotient": 0.3,
+    "spiritual_quotient": 0.7
+  }
+}
