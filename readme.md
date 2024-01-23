@@ -3,6 +3,12 @@
 ## Overview
 ML Story generator is an AI story generator built using openai.
 
+## Architecture
+![overview](images/overview.png?raw=true "ML Prompt Generation process")
+
+## Factors cntributed for story generation
+![Factors for story generation](images/story.png?raw=true "Story generation attributes")
+
 ## Specifications:
 Below are the specifications based on which the model is created:
 - Platform  : openai
