@@ -4,12 +4,13 @@ import os
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv())
 
-openai.api_key  = os.getenv('OPENAI_API_KEY')
+openai.api_key  = os.getenv('OPENAI_KEY')
 
 
 def get_completion(prompt, model="gpt-3.5-turbo"):
     messages = [{"role": "user", "content": prompt}]
-    response = openai.ChatCompletion.create(
+    # response = openai.ChatCompletion.create(
+    response = openai.chat.completions.create(
         model=model,
         messages=messages,
         temperature=0.8, # this is the degree of randomness of the model's output
@@ -69,5 +70,5 @@ and location quotient for the generated story".
 """
 response = get_completion(prompt)
 print(response);
-with open('result.txt', 'a') as fp:
-    fp.write(response)
+# with open('result.txt', 'a') as fp:
+#     fp.write(response)
