@@ -1,49 +1,50 @@
+const data = require("./stories/stories4.json");
+// This file is for handling multiple stories in one shot
+// Input for this file a array of json objects
+// Sample file is stories4.json. Attached in the stories folder
+
 const axios = require("axios");
 const dotenv = require("dotenv");
 
 dotenv.config();
 
-const { data } = require("./stories.json");
-const { title, body, twists } = require("./stories.json");
+async function main(story) {
+  const { title, body, twists } = story;
 
-//Object for creating the root story
-const twist0 = { title: title, body: body };
+  //Object for creating the root story
+  const twist0 = { title: title, body: body };
 
-const story_meta = {};
+  const story_meta = {};
 
-//Object for creating the twists in the story
-const story_full = {};
-//Object for creating the twists in the story
-const subtwists_full = {};
+  //Object for creating the twists in the story
+  const story_full = {};
 
-for (const twist of twists) {
-  story_meta[twist.id] = twist.subtwists?.length;
+  for (const twist of twists) {
+    story_meta[twist.id] = twist.subtwists?.length;
 
-  story_full[twist.id] = {};
+    story_full[twist.id] = {};
 
-  story_full[twist.id]["title"] = twist.title;
-  story_full[twist.id]["body"] = twist.body;
+    story_full[twist.id]["title"] = twist.title;
+    story_full[twist.id]["body"] = twist.body;
 
-  if (twist.subtwists?.length > 0) {
-    for (const subtwist in twist.subtwists) {
-      var temp = parseInt(subtwist) + 1;
-      story_meta[twist.id + temp] = 0;
+    if (twist.subtwists?.length > 0) {
+      for (const subtwist in twist.subtwists) {
+        var temp = parseInt(subtwist) + 1;
+        story_meta[twist.id + temp] = 0;
 
-      story_full[twist.id + temp] = {};
-      story_full[twist.id + temp]["title"] = twist.subtwists[subtwist].title;
-      story_full[twist.id + temp]["body"] = twist.subtwists[subtwist].body;
+        story_full[twist.id + temp] = {};
+        story_full[twist.id + temp]["title"] = twist.subtwists[subtwist].title;
+        story_full[twist.id + temp]["body"] = twist.subtwists[subtwist].body;
+      }
     }
   }
-}
 
-var response_array = [];
-var hashId_array = {};
-
-async function main() {
+  var response_array = [];
+  var hashId_array = {};
   // Get api token on https://story3.com/profile
   // please DO NOT COMMIT your token, keep it safe
   // if token was leaked you can refresh it using API endpoint `/api/v2/users/me/api_key`
-  const token = process.env.STORY3_KEY;
+  const token = process.env.STORY3_KEY2;
 
   // We should create story first. In order to do that we do POST request with root twist data.
   const twist0res = await axios.post(
@@ -104,4 +105,6 @@ async function main() {
   }
 }
 
-main().catch((e) => console.error(e));
+for (const story of data) {
+  main(story).catch((e) => console.error(e));
+}

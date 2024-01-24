@@ -1,12 +1,20 @@
 import openai
 import os
+# ==========================================================
+# This model is a generic model which generates stories
+# stories based on multiple quotients. We experimented 
+# the base model with different prompts (basic structure remains same) 
+# to create the variety in the story. 
+# ==========================================================
 
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv())
 
 openai.api_key  = os.getenv('OPENAI_KEY')
 
-
+# ==========================================================
+#               M   O   D   E   L
+# ==========================================================
 def get_completion(prompt, model="gpt-3.5-turbo"):
     messages = [{"role": "user", "content": prompt}]
     # response = openai.ChatCompletion.create(
@@ -17,12 +25,15 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     )
     return response.choices[0].message["content"]
 
-
+# ==========================================================
+#           P   A   R   A   M   E   T   E   R   S
+# ==========================================================
 emotional_quotient= 0.5
 location_quotient= 0.3
 drama_quotient = 0.7  
 reality_quotient= 0.5
 spiritual_quotient = 0.7
+# ==========================================================
 
 
 prompt = f"""
@@ -70,5 +81,3 @@ and location quotient for the generated story".
 """
 response = get_completion(prompt)
 print(response);
-# with open('result.txt', 'a') as fp:
-#     fp.write(response)
